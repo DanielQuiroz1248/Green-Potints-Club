@@ -23,7 +23,7 @@
     margin-left: 1em;
     margin-bottom: 1em;
 }
-#img{
+.img2{
     float: right;
     width: auto;
     height: auto;
@@ -75,3 +75,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
 .icon:last-child{
     border-radius: 0 0 0 1rem;
 }
+
+
+
+
+
+
+
