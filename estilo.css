@@ -1,3 +1,12 @@
+@font-face{
+    font-family: 'miFuente';
+    src: url(fonts/KGNeatlyPrinted.ttf);
+}
+.font{
+    font-family: 'miFuente';
+    font-size: 1.5em;
+    font-style: monospace;
+}
 .grid-container {
     display: grid;
     grid-template-columns: 3em auto auto 3em;
@@ -24,11 +33,12 @@
     margin-bottom: 1em;
 }
 .img2{
+    display:block;
+    margin:auto;
     float: right;
-    width: auto;
-    height: auto;
-    margin-left: 1em;
-    margin-bottom: 1em;
+    border-radius: 8px;
+    margin-bottom: .5em;
+    margin-top: .5em;
 }
 #color{
     color: #5abe0f;
