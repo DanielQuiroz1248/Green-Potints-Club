@@ -1,6 +1,0 @@
-www.greenpointsclub.com
-$ dig www.greenpointsclub.com +nostats +nocomments +nocmd
-  > ; www.greenpointsclub.com.                     IN      A
-  > www.greenpointsclub.com.              3592    IN      CNAME   danielquiroz1248.github.io.
-  > danielquiroz1248.github.io.      43192   IN      CNAME    Green-Points-Club .
-  >  Green-Points-Club .         22      IN      A       192.0.2.1
